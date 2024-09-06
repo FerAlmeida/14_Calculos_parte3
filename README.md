@@ -1,2 +1,2 @@
-# 14_Calculos_parte3
- Aplicando estatísticas em colunas
+# 6_Carregando_Dados_parte2
+ Carregando dados com Pandas
